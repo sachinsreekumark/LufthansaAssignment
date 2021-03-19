@@ -2,44 +2,44 @@
 <testng-results skipped="0" failed="0" total="3" passed="3">
   <reporter-output>
   </reporter-output>
-  <suite name="Lufthansa Test Suite" duration-ms="91228" started-at="2021-03-17T11:20:22Z" finished-at="2021-03-17T11:21:53Z">
+  <suite name="Lufthansa Test Suite" duration-ms="155585" started-at="2021-03-19T09:53:48Z" finished-at="2021-03-19T09:56:24Z">
     <groups>
     </groups>
-    <test name="Lufthansa Test" duration-ms="91228" started-at="2021-03-17T11:20:22Z" finished-at="2021-03-17T11:21:53Z">
+    <test name="Lufthansa Test" duration-ms="155585" started-at="2021-03-19T09:53:48Z" finished-at="2021-03-19T09:56:24Z">
       <class name="com.lufthansa.qa.testcases.LufthansaLoginPageTest">
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="setup" is-config="true" duration-ms="32992" started-at="2021-03-17T16:50:22Z" finished-at="2021-03-17T16:50:55Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="setup" is-config="true" duration-ms="48999" started-at="2021-03-19T15:23:48Z" finished-at="2021-03-19T15:24:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="lufthansaLoginPageTitleTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="lufthansaLoginPageTitleTest" duration-ms="71" started-at="2021-03-17T16:50:55Z" finished-at="2021-03-17T16:50:55Z">
+        <test-method status="PASS" signature="lufthansaLoginPageTitleTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="lufthansaLoginPageTitleTest" duration-ms="117" started-at="2021-03-19T15:24:37Z" finished-at="2021-03-19T15:24:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lufthansaLoginPageTitleTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="tearDown" is-config="true" duration-ms="1237" started-at="2021-03-17T16:50:55Z" finished-at="2021-03-17T16:50:57Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="tearDown" is-config="true" duration-ms="2293" started-at="2021-03-19T15:24:39Z" finished-at="2021-03-19T15:24:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="setup" is-config="true" duration-ms="25340" started-at="2021-03-17T16:50:57Z" finished-at="2021-03-17T16:51:22Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="setup" is-config="true" duration-ms="44398" started-at="2021-03-19T15:24:41Z" finished-at="2021-03-19T15:25:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="lufthansaLoginTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="lufthansaLoginTest" duration-ms="3908" started-at="2021-03-17T16:51:22Z" finished-at="2021-03-17T16:51:26Z">
+        <test-method status="PASS" signature="lufthansaLoginTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="lufthansaLoginTest" duration-ms="21770" started-at="2021-03-19T15:25:25Z" finished-at="2021-03-19T15:25:47Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lufthansaLoginTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="tearDown" is-config="true" duration-ms="982" started-at="2021-03-17T16:51:26Z" finished-at="2021-03-17T16:51:27Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="tearDown" is-config="true" duration-ms="2210" started-at="2021-03-19T15:25:48Z" finished-at="2021-03-19T15:25:50Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="setup" is-config="true" duration-ms="24622" started-at="2021-03-17T16:51:27Z" finished-at="2021-03-17T16:51:52Z">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="setup" is-config="true" duration-ms="32088" started-at="2021-03-19T15:25:50Z" finished-at="2021-03-19T15:26:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="lufthansaLogoTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="lufthansaLogoTest" duration-ms="70" started-at="2021-03-17T16:51:52Z" finished-at="2021-03-17T16:51:52Z">
+        <test-method status="PASS" signature="lufthansaLogoTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="lufthansaLogoTest" duration-ms="76" started-at="2021-03-19T15:26:22Z" finished-at="2021-03-19T15:26:22Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- lufthansaLogoTest -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="tearDown" is-config="true" duration-ms="874" started-at="2021-03-17T16:51:52Z" finished-at="2021-03-17T16:51:53Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@5427c60c]" name="tearDown" is-config="true" duration-ms="1395" started-at="2021-03-19T15:26:22Z" finished-at="2021-03-19T15:26:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

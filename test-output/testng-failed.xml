@@ -8,13 +8,14 @@
   </listeners>
   <test name="Lufthansa Test(failed)">
     <classes>
-      <class name="com.lufthansa.qa.testcases.LufthansaHomePageTest">
+      <class name="com.lufthansa.qa.testcases.LufthansaLoginPageTest">
         <methods>
-          <include name="tearDown"/>
+          <include name="lufthansaLogoTest"/>
+          <include name="lufthansaLoginPageTitleTest"/>
           <include name="setup"/>
-          <include name="lufthansaGotoLoginPageTest"/>
+          <include name="lufthansaLoginTest"/>
         </methods>
-      </class> <!-- com.lufthansa.qa.testcases.LufthansaHomePageTest -->
+      </class> <!-- com.lufthansa.qa.testcases.LufthansaLoginPageTest -->
     </classes>
   </test> <!-- Lufthansa Test(failed) -->
 </suite> <!-- Failed suite [Lufthansa Test Suite] -->
