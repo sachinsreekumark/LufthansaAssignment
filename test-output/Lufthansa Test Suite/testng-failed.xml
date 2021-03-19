@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Lufthansa Test Suite]">
+  <parameter name="appURL" value="https://google.com"/>
+  <parameter name="browserType" value="chrome"/>
+  <listeners>
+    <listener class-name="com.lufthansa.qa.base.ExtentReportListener"/>
+  </listeners>
+  <test name="Lufthansa Test(failed)">
+    <classes>
+      <class name="com.lufthansa.qa.testcases.LufthansaHomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setup"/>
+          <include name="lufthansaGotoLoginPageTest"/>
+        </methods>
+      </class> <!-- com.lufthansa.qa.testcases.LufthansaHomePageTest -->
+    </classes>
+  </test> <!-- Lufthansa Test(failed) -->
+</suite> <!-- Failed suite [Lufthansa Test Suite] -->

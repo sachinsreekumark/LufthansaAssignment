@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Lufthansa Test Suite" duration-ms="69059" started-at="2021-03-17T11:22:37Z" finished-at="2021-03-17T11:23:46Z">
+    <groups>
+    </groups>
+    <test name="Lufthansa Test" duration-ms="69059" started-at="2021-03-17T11:22:37Z" finished-at="2021-03-17T11:23:46Z">
+      <class name="com.lufthansa.qa.testcases.LufthansaLoginPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="setup" is-config="true" duration-ms="25459" started-at="2021-03-17T16:52:37Z" finished-at="2021-03-17T16:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="lufthansaLoginPageTitleTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="lufthansaLoginPageTitleTest" duration-ms="31" started-at="2021-03-17T16:53:03Z" finished-at="2021-03-17T16:53:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lufthansaLoginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="tearDown" is-config="true" duration-ms="828" started-at="2021-03-17T16:53:03Z" finished-at="2021-03-17T16:53:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="setup" is-config="true" duration-ms="14192" started-at="2021-03-17T16:53:04Z" finished-at="2021-03-17T16:53:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="lufthansaLoginTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="lufthansaLoginTest" duration-ms="3424" started-at="2021-03-17T16:53:18Z" finished-at="2021-03-17T16:53:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lufthansaLoginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="tearDown" is-config="true" duration-ms="888" started-at="2021-03-17T16:53:22Z" finished-at="2021-03-17T16:53:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="setup" is-config="true" duration-ms="21973" started-at="2021-03-17T16:53:23Z" finished-at="2021-03-17T16:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="lufthansaLogoTest()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="lufthansaLogoTest" duration-ms="56" started-at="2021-03-17T16:53:45Z" finished-at="2021-03-17T16:53:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lufthansaLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.lufthansa.qa.testcases.LufthansaLoginPageTest@1176dcec]" name="tearDown" is-config="true" duration-ms="899" started-at="2021-03-17T16:53:45Z" finished-at="2021-03-17T16:53:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.lufthansa.qa.testcases.LufthansaLoginPageTest -->
+    </test> <!-- Lufthansa Test -->
+  </suite> <!-- Lufthansa Test Suite -->
+</testng-results>
